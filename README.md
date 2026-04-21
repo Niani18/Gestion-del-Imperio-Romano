@@ -21,9 +21,9 @@ Es un sistema basado en el Imperio Romano que cumple 3 funciones principales:
 | Requerimiento | Detalle/Listado de casos incluidos |
 | --- | --- |
 | ABMC Simple | Provincia <br> Propiedad <br> Humano |
-| ABMC Dependiente | Familia <br> Impuesto |
+| ABMC Dependiente | Familia <br> causa |
 | CU NO-ABMC | CU_registrar_ciudadano |
-| Listado Simple | Listado de miembros de una familia. <br> Listado de impuestos a pagar para una familia. <br> Listado de impuestos a pagar para una familia. |
+| Listado Simple | Listado de miembros de una familia. <br> Listado de impuestos a pagar para una familia. <br> Listado de impuestos a pagar para una propiedad. |
 | Listado Complejo | - |
 
 ## Casos de Uso para la AP DIRECTA
@@ -33,7 +33,7 @@ Es un sistema basado en el Imperio Romano que cumple 3 funciones principales:
 | CU "Complejo"(nivel resumen) |  CUR_proceso_judicial                                          |
 | Listado complejo             |  Listado de causas por ciudadano, filtrado por estado y penas  |
 | Nivel de acceso              |  Ciudadano <br> Funcionario                                    |
-| Req. extra obligatorio       |   Log de errores                                               |
+| Req. extra obligatorio       |  Log de errores                                                |
 
 
 ### Requerimientos extra - AD
