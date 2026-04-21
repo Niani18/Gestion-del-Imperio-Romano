@@ -1,20 +1,20 @@
-#Gestion del Imperio Romano
-##Integrantes
+# Gestion del Imperio Romano
+## Integrantes
 - 52533- Giusti, Santiago
 - 45210- Sandoval, Ezequiel
 - 52646- Faraone, Samuel
 
-##Repositorios
+## Repositorios
 - [front-end](https://www.youtube.com/watch?v=4Jt78n_A7jM)
 - [back-end](https://www.youtube.com/shorts/7DOExArb7Fc)
 
-##Descripcion
+## Descripcion
 Es un sistema basado en el Imperio Romano que cumple 3 funciones principales: 
 - Hacer un censo, tanto de Hombres libres (sin discriminar ciudadano de artensano y demas trabajadores manuales) como asi tambien de esclavos.
 - Gestionar el pago de impuestos, separandolos en impuestos a la propiedad e impuestos a las familias.
 - Y por ultimo, un sistema de gestion judicial, donde se va a registrar todo antecedente criminal, solo para hombres libres.
 
-##Modelo
+## Modelo
 <img src="./gestion-imperio-romano.png" alt="Modelo del sistema">
 
 ## Casos de Uso para la REGULARIDAD
