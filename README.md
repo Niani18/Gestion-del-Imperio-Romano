@@ -29,14 +29,17 @@ Es un sistema basado en el Imperio Romano que cumple 3 funciones principales:
 ## Casos de Uso para la AP DIRECTA
 | Requerimiento                | Detalle/Listado de casos incluidos                                                                            |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| CU "Complejo"(nivel resumen) |                            |
-| Listado complejo             |                            |
-| Nivel de acceso              |                            |
-| Manejo de errores            |                            |
-| Publicar el sitio            |                            |
+| ABMC                         |  Todas las restantes                                           |
+| CU "Complejo"(nivel resumen) |  CUR_proceso_judicial                                          |
+| Listado complejo             |  Listado de causas por ciudadano, filtrado por estado y penas  |
+| Nivel de acceso              |  Ciudadano <br> Funcionario                                    |
+| Req. extra obligatorio       |   Log de errores                                               |
 
 
 ### Requerimientos extra - AD
-| Requerimiento | Detalle/Listado de casos incluidos |
-| --- | --- |
-|  |  |
+|Requerimiento      |Detalle/Listado de casos incluidos|
+|:-|:-|
+|Manejo de archivos | Voluntario  |
+|Custom exceptions  | Voluntario  |
+|Log de errores     | Obligatorio |
+|Envio de emails    | Voluntario  |
