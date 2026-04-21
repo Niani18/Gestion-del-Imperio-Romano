@@ -20,10 +20,10 @@ Es un sistema basado en el Imperio Romano que cumple 3 funciones principales:
 ## Casos de Uso para la REGULARIDAD
 | Requerimiento | Detalle/Listado de casos incluidos |
 | --- | --- |
-| ABMC Simple |  |
-| ABMC Dependiente |  |
-| CU NO-ABMC |  |
-| Listado Simple |  |
+| ABMC Simple | Provincia <br> Propiedad <br> Humano |
+| ABMC Dependiente | Familia <br> Impuesto |
+| CU NO-ABMC | CU_registrar_ciudadano |
+| Listado Simple | Listado de miembros de una familia. <br> Listado de impuestos a pagar para una familia. <br> Listado de impuestos a pagar para una familia. |
 | Listado Complejo | - |
 
 ## Casos de Uso para la AP DIRECTA
