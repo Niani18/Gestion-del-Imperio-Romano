@@ -20,7 +20,7 @@ Es un sistema basado en el Imperio Romano que cumple 3 funciones principales:
 ## Casos de Uso para la REGULARIDAD
 | Requerimiento | Detalle/Listado de casos incluidos |
 | --- | --- |
-| ABMC Simple | Provincia <br> Propiedad <br> Humano |
+| ABMC Simple | Provincia <br> Propiedad <br> Humano <br> Impuesto |
 | ABMC Dependiente | Familia <br> causa |
 | CU NO-ABMC | CU_registrar_ciudadano |
 | Listado Simple | Listado de miembros de una familia. <br> Listado de impuestos a pagar para una familia. <br> Listado de impuestos a pagar para una propiedad. |
