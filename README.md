@@ -22,7 +22,7 @@ Es un sistema basado en el Imperio Romano que cumple 3 funciones principales:
 | --- | --- |
 | ABMC Simple | Provincia <br> Propiedad <br> Humano <br> Impuesto |
 | ABMC Dependiente | Familia <br> causa |
-| CU NO-ABMC | CU_registrar_ciudadano |
+| CU NO-ABMC | CU_asignar_impuesto |
 | Listado Simple | Listado de miembros de una familia. <br> Listado de impuestos a pagar para una familia. <br> Listado de impuestos a pagar para una propiedad. |
 | Listado Complejo | - |
 
